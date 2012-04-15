@@ -6,6 +6,7 @@
   name: $name;format="norm"$
   version: 0.1-SNAPSHOT
   class: $package$.Main
+  components: xsbti
 
 [repositories]
   local
